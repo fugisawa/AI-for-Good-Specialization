@@ -24,4 +24,4 @@ There are two datasets in total.
 
 
 2. stations_loc.csv
-	This dataset includes additional information about each of the stations (type and location). It includes the following columns: estacion, Sigla, Latitud, Longitud, Altitud (m), Altura (m), Localidad, Tipo de zona, Tipo de estaciÃ³n, DirecciÃ³n. The dataset includes 21 rows, one for each station. Not all of the stations are present in dataset 1. 
+	This dataset includes additional information about each of the stations (type and location). It includes the following columns: estacion, Sigla, Latitud, Longitud, Altitud (m), Altura (m), Localidad, Tipo de zona, Tipo de estaciÃ³n, DirecciÃ³n. The dataset includes 21 rows, one for each station. Not all of the stations are present in dataset 1.
