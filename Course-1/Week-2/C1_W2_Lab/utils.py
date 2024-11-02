@@ -25,7 +25,7 @@ FONT_SIZE_TITLE = 20
 FONT_SIZE_AXES = 16
 
 
-# Functions below are directly called in the notebook
+# Functions below are directly called in the notebook.
 
 def create_correlation_matrix(
     raw_data: pd.core.frame.DataFrame,
