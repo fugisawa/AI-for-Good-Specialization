@@ -1,190 +1,199 @@
-# [AI for Good Specialization](https://www.deeplearning.ai/courses/ai-for-good/)
-Learn AI's role in addressing complex challenges. Build skills combining human and machine intelligence for positive real-world impact using AI
+# Especialização "AI for Good"
 
-## About this Specialization
-The AI for Good Specialization showcases how AI can be part of the solution when it comes to addressing some of the world’s biggest challenges in areas like public health, climate change, and disaster management.
+Este repositório contém materiais e exercícios desenvolvidos durante a especialização "[AI for Good](https://www.deeplearning.ai/courses/ai-for-good/)", oferecida pelo **DeepLearning.AI** em parceria com o **Coursera**. Esta especialização demonstra o papel da inteligência artificial na criação de soluções para desafios globais críticos, como saúde pública, mudanças climáticas e gestão de desastres naturais.
 
-In these courses, you’ll learn from instructor Robert Monarch, who has over 20 years of experience building AI products in industry and working at the intersection of AI and public health and disaster management. Robert is also the author of [Human-in-the-Loop Machine Learning](https://www.manning.com/books/human-in-the-loop-machine-learning), a book focused on human-centered AI applications. 
+Ao longo dos três cursos, explora-se como a IA pode gerar impacto positivo na sociedade ao ser aplicada para resolver problemas reais.Cada módulo proporciona um aprendizado prático com projetos aplicados e estudos de caso reais, orientados para criar impacto social e ambiental. A especialização, ministrada por [Robert Monarch](https://www.linkedin.com/in/robertjmunro/), é uma oportunidade para adquirir habilidades técnicas em IA enquanto desenvolve a compreensão das considerações éticas, de privacidade e de impacto humano, que são cruciais para o desenvolvimento responsável de tecnologias.
 
-Throughout the courses, you'll hear from experts working on AI for Good initiatives aimed at addressing social and environmental issues. By combining human and machine intelligence, real-world datasets, best practices around data privacy, and ethical considerations, you’ll develop the knowledge and fundamental skills to tackle your own AI for good projects.
+## Sobre a Especialização
 
-## Applied Learning Project
-- Create an air quality monitoring application for the city of Bogotá, Colombia
-- Explain the mechanisms behind anthropogenic climate change and the ways it is impacting global temperatures and weather patterns. 
-- Identify ways in which AI techniques used in the context of addressing climate change, and use the techniques.
-- Frame the role of AI in fighting climate change, the types of AI approaches that can be used, and the factors to consider when deploying AI in climate contexts.
-- Explore a real-world wind power forecasting problem using the AI for Good framework 
-- Use satellite imagery from Hurricane Harvey in 2017 to work through the entire AI for Good project pipeline.
+Este repositório contém materiais e exercícios desenvolvidos durante a especialização "[AI for Good](https://www.deeplearning.ai/courses/ai-for-good/)", oferecida pelo **DeepLearning.AI** em parceria com o **Coursera**. Esta especialização demonstra o papel da inteligência artificial na criação de soluções para desafios globais críticos, como saúde pública, mudanças climáticas e gestão de desastres naturais
+A especialização "AI for Good" destaca como a IA pode ser utilizada para enfrentar desafios significativos em áreas como saúde pública, mudanças climáticas e gestão de desastres. Ao longo dos cursos, você aprenderá com o instrutor Robert Monarch, que possui mais de 20 anos de experiência na construção de produtos de IA na indústria e no trabalho na interseção de IA, saúde pública e gestão de desastres. Robert também é autor do livro "Human-in-the-Loop Machine Learning", focado em aplicações de IA centradas no ser humano.
 
-## Course 1: AI and Public Health
-The AI and Public Health course is designed to introduce learners to the concept of using artificial intelligence to address social and environmental issues.
+Durante os cursos, você ouvirá especialistas envolvidos em iniciativas de "AI for Good" que visam abordar questões sociais e ambientais. Ao combinar inteligência humana e de máquina, conjuntos de dados do mundo real, melhores práticas em privacidade de dados e considerações éticas, você desenvolverá o conhecimento e as habilidades fundamentais para enfrentar seus próprios projetos de "AI for Good".
 
-We'll start by defining AI for Good, and explore various examples of AI for Good projects. You will get hands-on with a real-world concern, air quality in Bogotá, and use the AI for Good framework to define the problem, identify stakeholders, and determine where AI could fit. You will also learn how to interpret exploratory data analysis (EDA) graphs and use Python to explore air-quality data. The course also covers approaches for missing data imputation, model performance evaluation using mean absolute error (MAE), and interpreting EDA graphs and heatmaps.
+## Projeto de Aprendizagem Aplicada
 
-This is the first course in the AI for Good Specialization, which demonstrates how AI is being utilized to address some of the world’s biggest challenges — and provides a framework for you to be part of the solution. 
+- **Monitoramento da Qualidade do Ar**: Crie uma aplicação para monitorar a qualidade do ar na cidade de Bogotá, Colômbia.
+- **Previsão de Energia Eólica**: Desenvolva um modelo de IA para prever a geração de energia eólica, tornando-a mais previsível ao fornecer previsões com 24 horas de antecedência.
+- **Monitoramento da Biodiversidade**: Aplique técnicas de visão computacional para detectar e classificar animais com o objetivo de monitorar a biodiversidade.
+- **Avaliação de Danos por Desastres**: Construa uma pipeline de classificação de imagens para realizar avaliações de danos usando imagens de satélite capturadas após o furacão Harvey nos EUA em 2017.
+- **Análise de Solicitações de Ajuda**: Utilize técnicas de processamento de linguagem natural para analisar tendências em mensagens de texto enviadas após o terremoto de 2010 no Haiti.
 
-This is a beginner-friendly course. Learners should know high school-level math and basic spreadsheet operations.
+## Cursos Incluídos
 
-### Week 1: Introduction to AI for Good
+### Curso 1: IA e Saúde Pública
 
-#### Learning Objectives
-- Summarize the importance of data for an AI project
-- List various examples of machine learning algorithms
-- Define AI for Good and identify AI for Good examples
-- Explain at a high level what artificial intelligence, machine learning, and deep learning are, and their relationship with one another.
-- Describe some AI limitations, concerns and ethical questions surrounding it
-- Identify the key components of supervised learning
+O curso "IA e Saúde Pública" é projetado para introduzir os alunos ao conceito de usar inteligência artificial para abordar questões sociais e ambientais. Começaremos definindo "AI for Good" e exploraremos vários exemplos de projetos nessa área. Você terá uma experiência prática com uma preocupação do mundo real, a qualidade do ar em Bogotá, e usará o framework "AI for Good" para definir o problema, identificar stakeholders e determinar onde a IA pode se encaixar. Você também aprenderá a interpretar gráficos de análise exploratória de dados (EDA) e usar Python para explorar dados de qualidade do ar. O curso também aborda abordagens para imputação de dados faltantes, avaliação de desempenho de modelos usando erro absoluto médio (MAE) e interpretação de gráficos de EDA e heatmaps.
 
-[Quiz: What is AI?](https://github.com/Ryota-Kawamura/AI-for-Good-Specialization/blob/main/Course-1/Week-1/C1_W1_Quiz.md)
+Este é um curso amigável para iniciantes. Os alunos devem conhecer matemática de nível médio e operações básicas de planilhas.
 
-### Week 2: AI for Good Project Framework
+#### Semana 1: Introdução ao AI for Good
 
-#### Learning Objectives
-- Describe the AI for Good project development framework
-- List the expected outcomes from every phase of the framework
-- Recognize how the AI for good framework is applied in real-world projects
-- Explore a real-world problem (air quality in Bogotá) using the AI for Good framework
-- Interpret common exploratory data analysis (EDA) graphs
-- Use a Jupyter Notebook to run Python code to explore air-quality data
+**Objetivos de Aprendizagem**
 
-[Quiz 1: AI for Good Framework](https://github.com/Ryota-Kawamura/AI-for-Good-Specialization/blob/main/Course-1/Week-2/C1_W2_Quiz-1.md)
+- Resumir a importância dos dados para um projeto de IA
+- Listar vários exemplos de algoritmos de aprendizado de máquina
+- Definir "AI for Good" e identificar exemplos nessa área
+- Explicar em alto nível o que são inteligência artificial, aprendizado de máquina e aprendizado profundo, e suas relações entre si
+- Descrever algumas limitações da IA, preocupações e questões éticas relacionadas
+- Identificar os componentes-chave do aprendizado supervisionado
 
-[Lab: Explore Phase - Exploring Air Quality Data](https://github.com/Ryota-Kawamura/AI-for-Good-Specialization/blob/main/Course-1/Week-2/C1_W2_Lab/C1_W2_L1_Air_Quality_Explore_Phase.ipynb)
+[Quiz: O que é IA?](https://github.com/fugisawa/AI-for-Good-Specialization/blob/main/Course-1/Week-1/C1_W1_Quiz.md)
 
-[Quiz 2: Exploring Air Quality](https://github.com/Ryota-Kawamura/AI-for-Good-Specialization/blob/main/Course-1/Week-2/C1_W2_Quiz-2.md)
+#### Semana 2: Framework de Projeto AI for Good
 
-### Week 3: Air Quality in Bogotá Colombia
+**Objetivos de Aprendizagem**
 
-#### Learning Objectives
-- Clarify how to approach to an AI problem and why
-- List various challenges you may encounter in such AI related project
-- Summarize the tasks you do in the design and implement phase
-- Describe some approaches for missing data imputation
-- Determine the models performance using MAE
-- Differentiate between models based on their performance using MAE
-- Interpret common exploratory data analysis (EDA) graphs and heatmaps
-- Design and Implement the AI4G project, including the model strategy and user experience
-- Determine how to ensure data protection and privacy
+- Descrever o framework de desenvolvimento de projetos "AI for Good"
+- Listar os resultados esperados de cada fase do framework
+- Reconhecer como o framework é aplicado em projetos do mundo real
+- Explorar um problema real (qualidade do ar em Bogotá) usando o framework "AI for Good"
+- Interpretar gráficos comuns de análise exploratória de dados (EDA)
+- Usar um Jupyter Notebook para executar código Python e explorar dados de qualidade do ar
 
-[Lab 1: Design Phase - Estimating Missing PM2.5 Values](https://github.com/Ryota-Kawamura/AI-for-Good-Specialization/blob/main/Course-1/Week-3/C1_W3_Lab-1/C1_W3_L1_Air_Quality_Design_Phase.ipynb)
+[Quiz 1: Framework AI for Good](https://github.com/fugisawa/AI-for-Good-Specialization/blob/main/Course-1/Week-2/C1_W2_Quiz-1.md)
 
-[Lab 2: Design and Implement Phase - Estimating Between Sensors and Constructing a Map](https://github.com/Ryota-Kawamura/AI-for-Good-Specialization/blob/main/Course-1/Week-3/C1_W3_Lab-2/C1_W3_L2_Design_and_Implement_Phase.ipynb)
+[Laboratório: Fase de Exploração - Explorando Dados de Qualidade do Ar](https://github.com/fugisawa/AI-for-Good-Specialization/blob/main/Course-1/Week-2/C1_W2_Lab/C1_W2_L1_Air_Quality_Explore_Phase.ipynb)
 
-[Quiz: Air Quality Design and Implementation](https://github.com/Ryota-Kawamura/AI-for-Good-Specialization/blob/main/Course-1/Week-3/C1_W3_Quiz.md)
+[Quiz 2: Explorando a Qualidade do Ar](https://github.com/fugisawa/AI-for-Good-Specialization/blob/main/Course-1/Week-2/C1_W2_Quiz-2.md)
 
-## Course 2: AI and Climate Change
-In Course 2: AI and Climate Change, you will begin by learning the basics of anthropogenic climate change — why it is happening, its projected impacts, and how it is already driving extreme weather around the globe. You will then learn how machine learning techniques can lessen climate change’s impacts and help communities prepare for those that do occur.
+#### Semana 3: Qualidade do Ar em Bogotá, Colômbia
 
-Learners will take part in two hands-on labs. In the first, you will use data modeling techniques to visualize how climate change is modeled to cause average temperatures to change in different locations around the world. In the second, you will build a model that forecasts how much power wind turbines in different locations will generate.
+**Objetivos de Aprendizagem**
 
-This course is part of the AI for Good Specialization, which demonstrates how AI is being harnessed to tackle some of the world’s biggest challenges — and provides a framework for you to be part of the solution.
+- Esclarecer como abordar um problema de IA e por quê
+- Listar vários desafios que você pode encontrar em projetos relacionados à IA
+- Resumir as tarefas realizadas nas fases de design e implementação
+- Descrever algumas abordagens para imputação de dados faltantes
+- Determinar o desempenho dos modelos usando MAE
+- Diferenciar entre modelos com base em seu desempenho usando MAE
+- Interpretar gráficos comuns de EDA e heatmaps
+- Projetar e implementar o projeto AI4G, incluindo a estratégia do modelo e a experiência do usuário
+- Determinar como garantir a proteção e privacidade dos dados
 
-This is a beginner-friendly course. Learners should be familiar with high school-level mathematics and basic spreadsheet operations. It is recommended that learners first complete Course 1: AI and Public Health.
+[Laboratório 1: Fase de Design - Estimando Valores Faltantes de PM2.5](https://github.com/fugisawa/AI-for-Good-Specialization/blob/main/Course-1/Week-3/C1_W3_Lab-1/C1_W3_L1_Air_Quality_Design_Phase.ipynb)
 
-### Week 1: Introduction to AI and Climate Change
+[Laboratório 2: Fase de Design e Implementação - Estimando Entre Sensores e Construindo um Mapa](https://github.com/fugisawa/AI-for-Good-Specialization/blob/main/Course-1/Week-3/C1_W3_Lab-2/C1_W3_L2_Design_and_Implement_Phase.ipynb)
 
-#### Learning Objectives
-- Describe how increased GHG emissions are creating rising temperatures on Earth (i.e. greenhouse effect).
-- Describe ways in which climate change is causing social or environmental crises.
-- Assess the applicability/relevance of AI technologies for wind energy forecasting.
-- Identify contexts and problems in which AI has been used and can be used in the context of climate change.
+[Quiz: Design e Implementação da Qualidade do Ar](https://github.com/fugisawa/AI-for-Good-Specialization/blob/main/Course-1/Week-3/C1_W3_Quiz.md)
 
-[Lab: Exploring Global Temperature Change](https://github.com/Ryota-Kawamura/AI-for-Good-Specialization/blob/main/Course-2/Week-1/C2_W1_Lab/C2_W1_Lab_1_Temperature.ipynb)
+### Curso 2: IA e Mudanças Climáticas
 
-[Quiz: Climate Change & Global Warming](https://github.com/Ryota-Kawamura/AI-for-Good-Specialization/blob/main/Course-2/Week-1/C2_W1_Quiz.md)
+Neste curso, você aprenderá sobre os impactos das mudanças climáticas causadas pelo ser humano e como a IA pode ajudar a mitigar esses efeitos. O curso inclui atividades práticas de modelagem de dados para visualizar as mudanças de temperatura e prever a geração de energia eólica em locais específicos.
 
-### Week 2: Wind Power Forecasting
+#### Semana 1: Introdução à IA e Mudanças Climáticas
 
-#### Learning Objectives
-- Assess the applicability/relevance of AI technologies for wind energy forecasting.
-- Determine how machine learning approaches (e.g. LSTMs) can be used for predicting wind energy generation.
-- Determine what metrics are helpful to measure the performance of a regression model.
+**Objetivos de Aprendizagem**
 
-[Lab 1: Explore Phase - Distribution of the Wind Power Data](https://github.com/Ryota-Kawamura/AI-for-Good-Specialization/blob/main/Course-2/Week-2/C2_W2_Lab-1/C2_W2_Lab_1_Wind_Energy_Explore.ipynb)
+- Explicar o efeito estufa e como emissões de gases de efeito estufa aumentam a temperatura global
+- Descrever como as mudanças climáticas causam crises sociais e ambientais
+- Avaliar a aplicação de técnicas de IA para previsão de energia eólica
+- Identificar contextos onde a IA é utilizada para enfrentar mudanças climáticas
 
-[Lab 2: Design Phase - Feature Engineering on the Wind Power Data](https://github.com/Ryota-Kawamura/AI-for-Good-Specialization/blob/main/Course-2/Week-2/C2_W2_Lab-2/C2_W2_Lab_2_Wind_Energy_Design_1.ipynb)
+[Laboratório: Explorando Mudanças de Temperatura Globais](https://github.com/fugisawa/AI-for-Good-Specialization/blob/main/Course-2/Week-1/C2_W1_Lab/C2_W1_Lab_1_Temperature.ipynb)
 
-[Lab 3: Design Phase - Forecasting Wind Power 24 Hours in Advance](https://github.com/Ryota-Kawamura/AI-for-Good-Specialization/blob/main/Course-2/Week-2/C2_W2_Lab-3/C2_W2_Lab_3_Wind_Energy_Design_2.ipynb)
+[Quiz: Mudanças Climáticas e Aquecimento Global](https://github.com/fugisawa/AI-for-Good-Specialization/blob/main/Course-2/Week-1/C2_W1_Quiz.md)
 
-[Quiz: Wind Power Forecasting](https://github.com/Ryota-Kawamura/AI-for-Good-Specialization/blob/main/Course-2/Week-2/C2_W2_Quiz.md)
+#### Semana 2: Previsão de Energia Eólica
 
-### Week 3: Monitoring Biodiversity
+**Objetivos de Aprendizagem**
 
-#### Learning Objectives
-- Describe the impact of climate change on habitat loss and diversity loss.
-- Determine how biodiversity loss and climate change are related.
-- Explain how and why image data is important in the fight against climate change.
-- Use different techniques for processing and transforming image data.
-- Determine how camera trap data is currently analyzed by scientists and what kind of automatic analysis would be helpful to them.
+- Avaliar a aplicabilidade de tecnologias de IA na previsão de geração de energia eólica
+- Determinar como técnicas de aprendizado de máquina (ex.: LSTMs) podem ser usadas para prever geração de energia eólica
+- Identificar métricas úteis para avaliar o desempenho de um modelo de regressão
 
-[Lab: Explore Phase - Exploring the Karoo Image Data](https://github.com/Ryota-Kawamura/AI-for-Good-Specialization/blob/main/Course-2/Week-3/C2_W3_Lab/C2_W3_Lab_1_Karoo_Image_data_exploration.ipynb)
+[Laboratório 1: Fase de Exploração - Distribuição dos Dados de Energia Eólica](https://github.com/fugisawa/AI-for-Good-Specialization/blob/main/Course-2/Week-2/C2_W2_Lab-1/C2_W2_Lab_1_Wind_Energy_Explore.ipynb)
 
-[Quiz: Biodiversity Monitoring](https://github.com/Ryota-Kawamura/AI-for-Good-Specialization/blob/main/Course-2/Week-3/C2_W3_Quiz.md)
+#### Semana 3: Monitoramento da Biodiversidade
 
-### Week 4: Monitoring Biodiversity Loss
+**Objetivos de Aprendizagem**
 
-#### Learning Objectives
-- Define what Convolutional Neural Networks (CNNs) are.
-- Implement a CNN for classifying different types of animals on camera trap data.
-- Define the difference between training from scratch and fine-tuning a pre-trained model.
-- Demonstrate the utility of using models trained on general-purpose data that can be fine-tuned on domain-specific datasets.
-- Evaluate how the model does using confusion matrices and derivative metric(s).
+- Descrever o impacto das mudanças climáticas na perda de habitat e diversidade
+- Explicar como a análise de dados de imagem pode ajudar na preservação da biodiversidade
+- Determinar como dados de armadilhas fotográficas são analisados atualmente e como a IA pode contribuir
 
-[Lab 1: Design Phase - Using the MegaDetector](https://github.com/Ryota-Kawamura/AI-for-Good-Specialization/blob/main/Course-2/Week-4/C2_W4_Lab-1/C2_W4_Lab_1_design_phase_1.ipynb)
+[Laboratório: Fase de Exploração - Explorando Dados de Imagem do Karoo](https://github.com/fugisawa/AI-for-Good-Specialization/blob/main/Course-2/Week-3/C2_W3_Lab/C2_W3_Lab_1_Karoo_Image_data_exploration.ipynb)
 
-[Lab 2: Design Phase - Fine-Tuning Your Classification Model](https://github.com/Ryota-Kawamura/AI-for-Good-Specialization/blob/main/Course-2/Week-4/C2_W4_Lab-2/C2_W4_Lab_2_design_phase_2.ipynb)
+### Curso 3:
 
-[Lab 3: Implement Phase - Object Detection Pipeline](https://github.com/Ryota-Kawamura/AI-for-Good-Specialization/blob/main/Course-2/Week-4/C2_W4_Lab-3/C2_W4_Lab_3_Karoo_Implementation.ipynb)
+ IA e Gestão de Desastres
 
-[Quiz: AI Models](https://github.com/Ryota-Kawamura/AI-for-Good-Specialization/blob/main/Course-2/Week-4/C2_W4_Quiz.md)
+Neste curso, você aprenderá sobre o ciclo de gestão de desastres e como a IA pode auxiliar em cada fase para reduzir impactos negativos, com estudos de caso práticos sobre o Furacão Harvey e o terremoto no Haiti.
 
-## Course 3: AI and Disaster Management
-In Course 3, AI and Disaster Management, you will begin by learning how natural disasters create both short and long-term impacts on the economy, environment, and community. You will learn how the disaster management cycle can be used to reduce the impacts of a disaster and guidelines for how you can engage in disaster-related projects. 
+#### Semana 1: Introdução à IA e Gestão de Desastres
 
-You will get hands-on experience through a pair of case studies. The first case study looks at Hurricane Harvey, which devastated parts of the Caribbean, Mexico, and the southern United States in 2017. You will use computer vision to identify hurricane damage from satellite imagery. The second focuses on the catastrophic 2010 earthquake in Haiti. You will use natural language processing (NLP) to compare requests for aid that victims made shortly after the earthquake with those that they made several months later.
+**Objetivos de Aprendizagem**
 
-This course is part of the AI for Good Specialization, which demonstrates how AI is being harnessed to tackle some of the world’s biggest challenges — and provides a framework that you can apply to any AI for Good project in assessing if AI can add value.
+- Examinar os impactos imediatos e de longo prazo dos desastres nas comunidades
+- Definir as quatro fases do ciclo de gestão de desastres
+- Descrever considerações éticas ao trabalhar com comunidades afetadas
 
-This is a beginner-friendly course. Learners should know high school-level math and basic spreadsheet operations. It is recommended that learners first complete Course 1: AI and Public Health and Course 2: AI and Climate Change.
+#### Semana 2: Detecção de Locais de Desastre com Imagens de Satélite
 
-### Week 1: Introduction to AI and Disaster Management
+**Objetivos de Aprendizagem**
 
-#### Learning Objectives
-- Examine the immediate and long-term impacts disasters have on communities.
-- Define the four phases of the disaster management cycle and the actions involved at each phase.
-- Describe ethical considerations and leadership guidelines when working with communities affected by disasters.
+- Analisar imagens de satélite para definir o problema e identificar stakeholders
+- Implementar uma rede neural convolucional para classificar imagens de satélite
+- Avaliar o desempenho do modelo com matrizes de confusão
 
-[Quiz: AI and Disaster Management](https://github.com/Ryota-Kawamura/AI-for-Good-Specialization/blob/main/Course-3/Week-1/C3_W1_Quiz.md)
+[Laboratório 1: Fase de Exploração - Dados do Furacão Harvey](https://github.com/fugisawa/AI-for-Good-Specialization/blob/main/Course-3/Week-2/C3_W2_Lab-1/C3_W2_L1_Hurricane_Harvey_Explore.ipynb)
 
-### Week 2: Satellite Imagery to Detect Disaster Locations
+[Quiz: Avaliação de Danos para Resposta e Recuperação de Desastres](https://github.com/fugisawa/AI-for-Good-Specialization/blob/main/Course-3/Week-2/C3_W2_Quiz.md)
 
-#### Learning Objectives
-- Explore satellite images from Hurricane Harvey in 2017 to define the problem, identify the stakeholders of your project, determine where AI could fit and whether it is necessary or not, explore the data of the project, and design the AI4G project.
-- Define a use case when satellite data can provide precious resources to guide disaster response
-- Identify ethical and privacy constraints when working with aerial imagery in the aftermath of a disaster.
-- Implement a CNN for classifying satellite images
-- Evaluate how the model does using confusion matrices and derivative metric(s)
-- Compare the advantages and disadvantages of using imagery from satellite, aircraft, or drones.
+### Semana 3: Análise de Dados Textuais para Obtenção de Insights
 
-[Lab 1: Explore Phase - Exploring the Hurricane Harvey Satellite Image Data](https://github.com/Ryota-Kawamura/AI-for-Good-Specialization/blob/main/Course-3/Week-2/C3_W2_Lab-1/C3_W2_L1_Hurricane_Harvey_Explore.ipynb)
+**Objetivos de Aprendizagem**
 
-[Lab 2: Design Phase - Classifying Images with a Convolutional Neural Network](https://github.com/Ryota-Kawamura/AI-for-Good-Specialization/blob/main/Course-3/Week-2/C3_W2_Lab-2/C3_W2_L2_Hurricane_Harvey_Design.ipynb)
+- Explorar o desastre do terremoto no Haiti em 2010 para definir o problema, identificar stakeholders, determinar onde a IA pode ser aplicada e se é realmente necessária.
+- Descrever como processar dados textuais para aplicações de linguagem natural.
+- Implementar a técnica LDA (Latent Dirichlet Allocation) para modelagem de tópicos e avaliar o desempenho utilizando a métrica de coerência.
 
-[Lab 3: Implement Phase - Analyzing Classification Features and Develop a Geo-Locator](https://github.com/Ryota-Kawamura/AI-for-Good-Specialization/blob/main/Course-3/Week-2/C3_W2_Lab-3/C3_W2_L3_Hurricane_Harvey_Implement.ipynb)
+[Laboratório 1: Fase de Exploração - Explorando Dados de Mensagens de Texto do Terremoto no Haiti](https://github.com/fugisawa/AI-for-Good-Specialization/blob/main/Course-3/Week-3/C3_W3_Lab-1/C3_W3_Lab_1_Haiti_Earthquake_Explore.ipynb)
 
-[Quiz: Damage Assessment for Disaster Response and Recovery](https://github.com/Ryota-Kawamura/AI-for-Good-Specialization/blob/main/Course-3/Week-2/C3_W2_Quiz.md)
+[Laboratório 2: Fase de Design - Limpeza e Processamento de Dados Textuais](https://github.com/fugisawa/AI-for-Good-Specialization/blob/main/Course-3/Week-3/C3_W3_Lab-2/C3_W3_Lab_2_Haiti_Earthquake_Design_1.ipynb)
 
-### Week 3: Analyzing Text Data to Gain Insights
+[Laboratório 3: Fase de Design - Modelagem de Tópicos em Mensagens de Texto com LDA](https://github.com/fugisawa/AI-for-Good-Specialization/blob/main/Course-3/Week-3/C3_W3_Lab-3/C3_W3_Lab_3_Haiti_Earthquake_Design_2.ipynb)
 
-#### Learning Objectives
-- Explore the Haiti Earthquake disaster from 2010 to define the problem, identify the stakeholders of your project, determine where AI could fit and whether it is necessary or not, explore the data of the project, and design the AI4G project.
-- Describe how to process text data for natural language applications.
-- Implement LDA for topic modeling and assess its performance using coherence metric.
+[Quiz: Análise de Texto para Mitigação e Preparação para Desastres](https://github.com/fugisawa/AI-for-Good-Specialization/blob/main/Course-3/Week-3/C3_W3_Quiz.md)
 
-[Lab 1: Explore Phase - Exploring the Haiti Earthquake Text Message Data](https://github.com/Ryota-Kawamura/AI-for-Good-Specialization/blob/main/Course-3/Week-3/C3_W3_Lab-1/C3_W3_Lab_1_Haiti_Earthquake_Explore.ipynb)
 
-[Lab 2: Design Phase - Cleaning and Processing Text Data](https://github.com/Ryota-Kawamura/AI-for-Good-Specialization/blob/main/Course-3/Week-3/C3_W3_Lab-2/C3_W3_Lab_2_Haiti_Earthquake_Design_1.ipynb)
+## Resultados Esperados e Impacto
 
-[Lab 3: Design Phase - Performing Topic Modeling on Text Messages with LDA](https://github.com/Ryota-Kawamura/AI-for-Good-Specialization/blob/main/Course-3/Week-3/C3_W3_Lab-3/C3_W3_Lab_3_Haiti_Earthquake_Design_2.ipynb)
+Este projeto não apenas destaca o uso da inteligência artificial para abordar problemas reais, mas também demonstra a aplicação prática de IA para fins sociais e ambientais. Ele ilustra a viabilidade de soluções tecnológicas em cenários críticos e a capacidade de análise e desenvolvimento de IA para apoiar o bem-estar público. Esses exemplos servem como referência para projetos que busquem impacto social positivo com IA.
 
-[Quiz: Text Analysis for Disaster Mitigation and Preparation](https://github.com/Ryota-Kawamura/AI-for-Good-Specialization/blob/main/Course-3/Week-3/C3_W3_Quiz.md)
+## Tecnologias e Ferramentas Utilizadas
+
+- **Python**: Programação e desenvolvimento de modelos de IA.
+- **Jupyter Notebooks**: Ambiente para desenvolvimento e visualização de análises.
+- **Pandas, NumPy**: Manipulação e análise de dados.
+- **Scikit-Learn**: Implementação de algoritmos de aprendizado de máquina.
+- **TensorFlow/PyTorch**: Modelagem de redes neurais para tarefas de visão computacional e processamento de linguagem natural.
+- **Matplotlib, Seaborn**: Visualização de dados.
+- **NLTK, spaCy**: Processamento de linguagem natural para análise textual.
+
+## Possíveis Extensões
+
+- **Monitoramento em Tempo Real**: Implementar um sistema de monitoramento contínuo para qualidade do ar ou previsão de energia eólica.
+- **Integração com APIs Externas**: Conectar com APIs de monitoramento de clima, qualidade do ar, ou sistemas de alerta de desastres para obter dados em tempo real.
+- **Aplicação de Modelos mais Complexos**: Experimentar arquiteturas de redes neurais profundas, como LSTM para previsão sequencial de energia eólica ou modelos transformers para análise textual em desastres.
+
+## Demonstração e Visualização
+
+Adicione uma seção com links para:
+- **Notebooks interativos no Google Colab**: Permitir que outros usuários explorem os notebooks diretamente.
+- **Imagens de Resultados**: Inclua gráficos, heatmaps e diagramas com explicações, demonstrando a evolução dos modelos e a interpretação dos dados.
+- **Vídeo ou Apresentação**: Um breve vídeo explicando o projeto pode dar uma visão prática do impacto e do uso da IA.
+
+## Contribuição para Comunidade
+
+Se você estiver aberto a colaborações, inclua uma seção com instruções de como contribuir com o projeto, criando um **guia de contribuição** e **exemplos de melhorias**. Isso demonstra iniciativa para engajamento comunitário e uso prático em situações reais, valores apreciados em ambientes profissionais.
+
+
+## Agradecimentos
+
+Gostaria de expressar meus sinceros agradecimentos ao instrutor [Robert Monarch](https://www.linkedin.com/in/robertjmunro/) por compartilhar sua experiência e e pela clareza de suas explicações ao longo desta especialização. Agradeço também ao **DeepLearning.AI** e ao **Coursera** pela criação de uma plataforma tão abrangente e bem estruturada, que permite aos alunos explorarem como a IA pode gerar impacto positivo no mundo. 
+
+## Contato
+
+Para discutir mais sobre este projeto ou outras iniciativas com IA para o bem social, você pode me encontrar no [LinkedIn](https://www.linkedin.com/in/daniel-fugisawa/).
+
