@@ -308,18 +308,6 @@ Este projeto não apenas destaca o uso da inteligência artificial para abordar 
 - **Imagens de Resultados**: Gráficos, heatmaps e diagramas estão incluídos nos notebooks para facilitar a compreensão dos resultados.
 - **Vídeo ou Apresentação**: Em breve, adicionarei um vídeo explicando o projeto e seu impacto.
 
-## Contribuição para a Comunidade
-
-Contribuições são bem-vindas! Se você deseja colaborar:
-
-1. Faça um fork do repositório.
-2. Crie uma nova branch com sua feature ou correção de bug: `git checkout -b feature/nova-feature`.
-3. Commit suas alterações: `git commit -m 'Adiciona nova feature'`.
-4. Faça um push para a branch: `git push origin feature/nova-feature`.
-5. Abra um Pull Request.
-
-Consulte o [guia de contribuição](CONTRIBUTING.md) para mais detalhes.
-
 ## Agradecimentos
 
 Gostaria de expressar meus sinceros agradecimentos ao professor [Robert Monarch](https://www.linkedin.com/in/robertjmunro/) por compartilhar sua experiência e pela clareza de suas explicações ao longo desta especialização. Agradeço também ao **DeepLearning.AI** e ao **Coursera** pela criação de uma plataforma tão abrangente e bem estruturada, que permite aos alunos explorarem como a IA pode gerar impacto positivo no mundo.
