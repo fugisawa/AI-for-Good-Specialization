@@ -8,6 +8,7 @@ from PIL import Image
 import os
 import numpy as np 
 import pandas as pd
+import matplotlib.pyplot as plt
 
 from IPython.display import clear_output, display
 from ipyfilechooser import FileChooser
