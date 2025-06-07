@@ -1,4 +1,4 @@
-# Datasheet: *Hurricane Harvey data* Lab 3
+# Datasheet: *Hurricane Harvey data* Lab 3.
 
 Author: DeepLearning.AI (DLAI)
 
